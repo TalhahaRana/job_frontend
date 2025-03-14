@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+.navbar{
+  background: linear-gradient(150deg,#00c271 20%,#00657a 43%,#00367e 60%);
+}
+.nav-btn{
+  color: #00157e;
+  font-weight: 700;
+  line-height: 1rem !important;
+  border-radius: 6px;
+  background: #00c271;
+  padding: 12px 20px 12px 16px;
+}
+.nav-text{
+  text-align: center;
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1rem;
+    color: white !important;
+}
