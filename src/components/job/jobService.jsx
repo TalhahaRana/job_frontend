@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "https://jobbackend-8d8da728da7f.herokuapp.com/";
+const API_URL = "https://jobbackend-8d8da728da7f.herokuapp.com/api/jobs";
 
 export const getJobs = async (filters) => {
   try {
