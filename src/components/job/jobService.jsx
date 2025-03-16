@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "https://dry-ridge-56148-87fa8206b529.herokuapp.com/";
+const API_URL = "https://jobbackend-8d8da728da7f.herokuapp.com/";
 
 export const getJobs = async (filters) => {
   try {
